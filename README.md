@@ -1,6 +1,7 @@
 # LLM Training for Medical Diagnosis
 collection of information on the training of LLM into a "thinking" version
 
+
 https://chatgpt.com/share/67ac8f75-ca14-8000-a0d1-0746fbc03ad3
 
 Comprehensive Guide:
