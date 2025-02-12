@@ -3,6 +3,9 @@ collection of information on the training of LLM into a "thinking" version
 
 https://chatgpt.com/share/67ac8f75-ca14-8000-a0d1-0746fbc03ad3
 
+comprehensive guide:
+https://chatgpt.com/share/67ad0af0-dae0-800c-aed3-23ffaf07f996
+
 https://www.perplexity.ai/search/i-would-like-to-know-what-tech-KrpaBIbrQXiVPt63pCu.Hw
 
 https://youtu.be/QdEuh2UVbu0
