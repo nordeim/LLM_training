@@ -13,6 +13,7 @@ https://chatgpt.com/share/67ad1269-1290-800d-82f9-d412d9431035
 https://chatgpt.com/share/67ad1304-7450-800c-93bd-24f2eeecfedf
 
 
+
 https://www.perplexity.ai/search/i-would-like-to-know-what-tech-KrpaBIbrQXiVPt63pCu.Hw
 
 Follow Up:
