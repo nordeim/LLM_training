@@ -13,6 +13,8 @@ Follow Up:
 
 https://www.perplexity.ai/search/think-of-yourself-as-a-great-s-ytRMzQLBRdy7tapMi3W2bA
 
+Initial resources:
+
 https://youtu.be/QdEuh2UVbu0
 
 https://www.youtube.com/watch?v=_dLlfAPuilM
