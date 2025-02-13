@@ -1,6 +1,6 @@
 https://chatgpt.com/share/67ad5674-8ba4-800c-8ba1-949b1aa11a35
 
-**Comprehensive, step-by-step guide tailored for training your custom medical diagnosis LLM, presented in a clear WhatsApp-style format. Enjoy the read and feel free to ask any follow-up questions if needed!**
+**Comprehensive guide tailored for training your custom medical diagnosis LLM**
 
 ─────────────────────────────  
 *🚀 Introduction: Why Build a Custom Medical Diagnosis LLM?*  
