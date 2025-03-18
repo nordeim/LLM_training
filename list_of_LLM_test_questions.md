@@ -61,3 +61,54 @@ Based on my research and understanding of common LLM evaluation practices, here 
 ```
 Do a deep dive research on YouTube videos, focusing on the recent videos to give me a list of 20 most commonly asked questions for LLMs that are being commented on in the YouTube videos, questions that are commonly used to test the quality of a new LLM released. question like "how many r are there in strawberry?".
 ```
+
+---
+```
+ollama run hf.co/mradermacher/Light-R1-7B-DS-GGUF:Q4_K_M
+```
+>>> how many r are there in the word strawberry ?
+⠙ \<think\>
+Alright, so I need to figure out how many times the letter "R" appears in the word "strawberry." Let me start by spelling it out: S-T-R-A-W-B-E-R-R-Y.
+
+First, I'll go through each letter one by one and count the "R"s:
+
+1. **S** - No
+2. **T** - No
+3. **R** - Yes (1)
+4. **A** - No
+5. **W** - No
+6. **B** - No
+7. **E** - No
+8. **R** - Yes (2)
+9. **R** - Yes (3)
+10. **Y** - No
+
+So, there are three "R"s in the word "strawberry." But wait, I need to make sure I didn't miss any or count extra ones. Let me double-check.
+
+Starting over:
+
+- S: No
+- T: No
+- R: Yes (1)
+- A: No
+- W: No
+- B: No
+- E: No
+- R: Yes (2)
+- R: Yes (3)
+- Y: No
+
+Yep, that's three "R"s. Hmm, but I'm a bit confused because sometimes words can have tricky spellings or silent letters, but "strawberry" doesn't seem to have any of those. The "r" sound is definitely there, and it's spelled out as "R." So, my initial count was correct—there are three "R"s in "strawberry."
+
+I wonder why the user asked this question. Maybe they're a young learner just starting with English, or perhaps they're testing if I can count accurately. Either way, it seems like a simple query, but it's always good to double-check to avoid any mistakes.
+
+Another angle could be that the user is interested in language patterns or phonics, which is why they're asking about the letter "R." It might also be helpful for someone learning English to hear the correct count and reinforce their own understanding.
+
+Alternatively, this could be a genuine curiosity about the structure of the word. Maybe they're a teacher looking for examples to explain counting letters in words to their students. Or perhaps it's just a fun question to engage with!
+
+In any case, providing an accurate answer while also offering additional insights or context could make the response more helpful. But given the simplicity of the question, sticking to the correct count and maybe breaking down the word structure a bit more would be beneficial.
+
+Overall, I think my initial response was accurate, but expanding on it could make it even better for the user's needs.
+\<\/think\>
+
+There are **three** "R"s in the word "strawberry."
