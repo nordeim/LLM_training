@@ -64,6 +64,7 @@ Do a deep dive research on YouTube videos, focusing on the recent videos to give
 
 ---
 ```
+ollama run hf.co/qihoo360/Light-R1-14B-DS-GGUF:latest
 ollama run hf.co/mradermacher/Light-R1-7B-DS-GGUF:Q4_K_M
 ```
 >>> how many r are there in the word strawberry ?
