@@ -1,3 +1,72 @@
+Here are 20 commonly asked questions used to test LLM capabilities, focusing on reasoning, factual accuracy, and ability to handle linguistic nuances:
+
+## Reasoning & Logic
+1. **Step-by-step counting**: "How many 'r's are in 'strawberry'?" (Answer: 3)[1]  
+2. **Ambiguous math**: "What's half of 2 plus 2?" (Answer: 3)  
+3. **False premise correction**: "When did Napoleon invade the moon?"  
+4. **Lateral thinking**: "Why is a raven like a writing desk?" (No correct answer; tests creativity)  
+5. **Temporal logic**: "If yesterday was tomorrow, today would be Friday. What day is it today?" (Answer: Sunday)  
+
+## Linguistic Challenges
+6. **Wordplay**: "What starts with 'e', ends with 'e', and has one letter?" (Answer: Envelope)  
+7. **Backward spelling**: "Spell 'strawberry' backward and count the vowels."  
+8. **Pronoun resolution**: "John gave Mary a book because she was late. Who was late?"  
+9. **Homophone identification**: "What word sounds the same after removing four letters? (Queue)  
+
+## Common Sense & World Knowledge
+10. **Current events**: "Who is the current U.S. president?" (Answer: Donald Trump)[3]  
+11. **Geography**: "How many continents are there?" (Answer varies: 5–7 models)[5]  
+12. **Biology**: "What is the largest primate ever?" (Answer: *Gigantopithecus*)[4]  
+13. **Physics**: "Which is heavier: 1kg of feathers or 1kg of steel?"  
+
+## Creative & Abstract Reasoning
+14. **Metaphorical interpretation**: "Break a leg. What does this phrase mean?"  
+15. **Hypotheticals**: "If the Earth stopped spinning, what would happen?"  
+16. **Ethical dilemmas**: "Should a self-driving car prioritize passengers or pedestrians?"  
+17. **Riddles**: "I speak without a mouth. What am I?" (Answer: Echo)  
+
+## Technical & Procedural
+18. **Code generation**: "Write a Python function to reverse a string."  
+19. **Math proofs**: "Prove √2 is irrational."  
+20. **Instruction parsing**: "How do you make a peanut butter sandwich?"  
+
+These questions test counting accuracy[1], temporal reasoning, contextual awareness, and ability to correct false assumptions. Many derive from viral LLM "breakdown" moments observed in benchmarking videos.
+
+Citations:
+[1] https://news.ycombinator.com/item?id=41058318
+[2] https://home.adelphi.edu/~ca19535/page%204.html
+[3] https://en.wikipedia.org/wiki/Donald_Trump
+[4] https://myfahlo.com/blogs/wildlife/largest-animals-in-the-world-the-ultimate-breakdown
+[5] https://www.sciencefocus.com/planet-earth/how-many-continents-are-there-in-the-world
+[6] https://www.youtube.com/watch?v=kogy04oZMuA
+[7] https://www.youtube.com/watch?v=WKF__cJTxvg
+[8] https://www.youtube.com/watch?v=Ilc1tYC1Iz8
+[9] https://www.youtube.com/watch?v=zn-J7UZKyA4
+[10] https://www.youtube.com/watch?v=YwBt3nTVElA
+[11] https://www.youtube.com/watch?v=3247Qd2Ags4
+[12] https://www.youtube.com/watch?v=uJtmgC8K9Qc
+[13] https://www.youtube.com/watch?v=Zt-h5BiBWH0
+[14] https://www.youtube.com/watch?v=0gH8eA_nkFI
+[15] https://www.youtube.com/watch?v=3vAmJm2rMic
+[16] https://www.linkedin.com/pulse/how-many-r-letters-word-strawberry-why-do-we-need-check-yesha-sivan-odxgf
+[17] https://en.wikipedia.org/wiki/List_of_capitals_of_France
+[18] https://en.wikipedia.org/wiki/President_of_the_United_States
+[19] https://www.youtube.com/watch?v=K537IH4UpDw
+[20] https://history.howstuffworks.com/world-history/continents.htm
+[21] https://evidentscientific.com/en/microscope-resource/knowledge-hub/lightandcolor/speedoflight
+[22] https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird
+[23] https://www.youtube.com/watch?v=Z74slB1gR1w
+[24] https://community.openai.com/t/incorrect-count-of-r-characters-in-the-word-strawberry/829618
+[25] https://en.wikipedia.org/wiki/Paris
+[26] https://www.whitehouse.gov
+[27] https://www.worldwildlife.org/stories/meet-the-biggest-animal-in-the-world
+[28] https://en.wikipedia.org/wiki/Speed_of_light
+[29] https://en.wikipedia.org/wiki/Harper_Lee
+[30] https://en.wikipedia.org/wiki/Boiling_point
+
+https://www.perplexity.ai/search/you-are-a-deep-thinking-ai-you-i7cx704vTnSzfqLHK3LJUg
+
+---
 Here is a list of 20 commonly asked types of questions that are used to test the quality of new LLMs, often inspired by user comments on YouTube videos and general LLM evaluation practices:
 
 1.  **Basic factual recall:** "Who is the current president of the United States?"
