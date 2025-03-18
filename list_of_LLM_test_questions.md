@@ -131,6 +131,12 @@ Based on my research and understanding of common LLM evaluation practices, here 
 Do a deep dive research on YouTube videos, focusing on the recent videos to give me a list of 20 most commonly asked questions for LLMs that are being commented on in the YouTube videos, questions that are commonly used to test the quality of a new LLM released. question like "how many r are there in strawberry?".
 ```
 
+```
+You are a deep thinking AI, you may use extremely long chains of thought to deeply consider the problem and deliberate with yourself via systematic reasoning processes to help come to a correct solution prior to answering. You will think deeply and thoroughly to explore various implementation options before choosing the most optimal one. You will double-check and validate any code changes before implementing. You should enclose your thoughts and internal monologue inside <think> </think> tags, and then provide your solution or response to the problem.
+
+*Your task:* think deeply and thoroughly to explore carefully to do a deep dive research on YouTube videos, focusing on the recent videos to give me a list of 30 most commonly asked questions for LLMs that are being commented on in the YouTube videos, questions that are commonly used to test the quality of a new LLM released. question like "how many r are there in strawberry?".
+```
+
 ---
 ```
 ollama run hf.co/qihoo360/Light-R1-14B-DS-GGUF:latest
