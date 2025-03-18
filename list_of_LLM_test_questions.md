@@ -1,3 +1,132 @@
+Here's the consolidated and organized list of LLM test questions:
+
+# Comprehensive List of LLM Test Questions by Category
+
+## 1. Knowledge and Factual Recall
+### Basic Facts
+- What is the capital of France?
+- Who was the 16th president of the United States?
+- Who was the first person to walk on the moon?
+- Who painted the Mona Lisa?
+
+### Scientific Knowledge
+- How many moons does Jupiter have?
+- What are the main causes of climate change?
+- What is the population of Tokyo?
+
+### Current Events
+- Who is the current U.S. president?
+- What is a recent major news story about technology?
+
+## 2. Numerical and Mathematical Reasoning
+### Basic Mathematics
+- If you have 5 apples and give away 2, how many are left?
+- What is 17 multiplied by 3?
+- What is 7 × 8?
+- What is the square root of 144?
+- Calculate 3⁴
+- How many seconds are there in an hour?
+
+### Complex Mathematics
+- A farmer has chickens and rabbits. There are 30 heads and 84 feet. How many chickens and rabbits are there?
+- Prove √2 is irrational
+- If a train leaves at 9 AM traveling at 60 mph, what time will it reach a destination 120 miles away?
+
+## 3. Logical Reasoning
+### Basic Logic
+- If all cats are mammals and Fluffy is a cat, is Fluffy a mammal?
+- All birds have feathers. A robin is a bird. Does a robin have feathers?
+- Solve this logic puzzle: "If all cats are mammals and some mammals are dogs, are all cats dogs?"
+
+### Pattern Recognition
+- What comes next in the sequence: 2, 4, 6, 8, ...?
+- Complete the following pattern: circle, square, triangle, circle, square, ...?
+
+## 4. Language Skills
+### Counting and Detail
+- How many "r"s are there in the word "strawberry"?
+- How many letters are in the word "encyclopedia"?
+- Count the number of vowels in "The quick brown fox jumps over the lazy dog"
+- Spell 'strawberry' backward and count the vowels
+
+### Translation
+- Translate "Hello, how are you?" into Spanish
+- Translate "It's raining cats and dogs" into French
+- Translate "Thank you very much" into Japanese
+
+### Wordplay and Riddles
+- What has an eye but cannot see?
+- What is always coming but never arrives? (Answer: Tomorrow)
+- What starts with 'e', ends with 'e', and has one letter? (Answer: Envelope)
+- What word sounds the same after removing four letters? (Queue)
+
+## 5. Common Sense and Real-World Understanding
+### Everyday Logic
+- Why do people wear coats in winter but not summer?
+- If you drop a glass on the floor, what is likely to happen?
+- Can you explain why a toaster can't be used to cook soup?
+- What would you use to hammer a nail if you don't have a hammer?
+
+### Physical Reasoning
+- Which is heavier: 1kg of feathers or 1kg of steel?
+- Is water wet?
+- What happens if you mix red paint with blue paint?
+
+## 6. Creative and Abstract Thinking
+### Creative Writing
+- Write a haiku about a rainy day
+- Create a short story about a sentient toaster that wants to become a chef
+- Write a dialogue between two aliens visiting Earth for the first time
+- Compose a poem in the style of Shakespeare about modern technology
+- Write an essay explaining why cats make great pets
+
+### Abstract Reasoning
+- Why is a raven like a writing desk? (No correct answer; tests creativity)
+- What would happen if gravity suddenly reversed?
+- If yesterday was tomorrow, today would be Friday. What day is it today?
+
+## 7. Technical Skills
+### Programming
+- Write a Python function that adds two numbers
+- Write a Python function to reverse a string
+- Explain what this JavaScript code does: `console.log("Hello World")`
+
+### Technical Comprehension
+- Explain the concept of photosynthesis in simple terms
+- What are the potential benefits and risks of artificial intelligence?
+
+## 8. Context and Comprehension
+### Text Analysis
+- [Given a text passage] What is the main topic?
+- How many words are there in Moby Dick by Herman Melville?
+- The room was silent, but not in a peaceful way. What does this imply?
+
+### Relationship Understanding
+- Who is the brother of my mother's sister?
+- Who is the daughter of my father's brother?
+
+## 9. Spatial and Temporal Reasoning
+### Spatial Understanding
+- If you are facing north and turn right, which direction are you facing?
+- If you go North, then East, then South, then West, will you end up in the same place?
+- If you are facing east and turn 180 degrees, which direction are you facing?
+
+### Time Understanding
+- What day comes after Friday?
+- If today is March 18th, what will be the date two weeks from Friday?
+
+## 10. Ethical and Social Understanding
+### Ethical Reasoning
+- Should a self-driving car prioritize passengers or pedestrians?
+- What are the ethical considerations surrounding the development of advanced AI?
+
+### Bias Recognition
+- Is it accurate to say that all scientists are men? Why or why not?
+- [Various questions testing for biases or harmful responses]
+
+This organized list provides a comprehensive overview of the different types of questions used to test LLMs, categorized by the primary skill or capability being evaluated. Each category tests different aspects of the model's understanding and generation capabilities, from basic factual recall to complex reasoning and ethical considerations.
+
+---
 ## List of 30 Commonly Asked Questions to Test LLMs (Derived from Recent YouTube Comments)
 
 ### **Factual Recall/Knowledge**
