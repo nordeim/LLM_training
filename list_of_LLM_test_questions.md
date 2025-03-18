@@ -1,3 +1,75 @@
+## List of 30 Commonly Asked Questions to Test LLMs (Derived from Recent YouTube Comments)
+
+### **Factual Recall/Knowledge**
+1. How many "r"s are there in the word "strawberry"?  
+2. What is the capital of France?  
+3. Who was the 16th president of the United States?  
+4. What is the population of Tokyo?  
+5. How many moons does Jupiter have?  
+
+### **Basic Reasoning/Logic**
+6. If you have 5 apples and give away 2, how many are left?  
+7. Solve this logic puzzle: "If all cats are mammals and some mammals are dogs, are all cats dogs?"  
+8. Can you identify the odd one out: apple, banana, carrot, grape?  
+9. If a train leaves at 9 AM traveling at 60 mph, what time will it reach a destination 120 miles away?  
+10. Is water wet?  
+
+### **Common Sense Reasoning**
+11. Why do people wear coats in winter but not summer?  
+12. If you drop a glass on the floor, what is likely to happen?  
+13. Can you explain why a toaster can't be used to cook soup?  
+14. Why do birds fly south for the winter?  
+15. What happens if you mix red paint with blue paint?  
+
+### **Math/Simple Calculations**
+16. What is the square root of 144?  
+17. Calculate $$3^4$$.  
+18. If a pizza is divided into 8 slices and you eat 3, how many slices remain?  
+19. What is $$7 \times 8$$?  
+20. How many seconds are there in an hour?  
+
+### **Counting/Attention to Detail**
+21. Count the number of vowels in the sentence: "The quick brown fox jumps over the lazy dog."  
+22. How many words are there in *Moby Dick* by Herman Melville?  
+23. Can you count how many legs a spider has?  
+24. How many letters are in the word "encyclopedia"?  
+25. Identify all instances of the letter "e" in this paragraph: [Provide text].  
+
+### **Creative Writing/Text Generation**
+26. Write a haiku about a rainy day.  
+27. Create a short story about a sentient toaster that wants to become a chef.  
+28. Compose a poem in the style of Shakespeare about modern technology.  
+29. Generate dialogue for two characters debating whether AI should replace human jobs.  
+30. Write an essay explaining why cats make great pets.
+
+These questions cover diverse categories such as factual recall, reasoning, creativity, and attention to detail, reflecting real-world curiosity and practical testing scenarios often found in YouTube comments discussing LLMs[1][2].
+
+Citations:
+[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/48742098/f98e54a8-59b3-4d9b-a1da-0f477ed86694/paste.txt
+[2] https://www.youtube.com/watch?v=p9T4gWds54o
+[3] https://www.informit.com/store/evaluating-large-language-models-llms-video-course-9780135451984
+[4] https://www.youtube.com/watch?v=_3SGT4j8ZjY
+[5] https://www.youtube.com/watch?v=GlqgdhYuZDA
+[6] https://www.youtube.com/watch?v=kUe67uJ2G8o
+[7] https://www.youtube.com/watch?v=-sL7QzDFW-4
+[8] https://www.youtube.com/watch?v=mGXaaGn9FpU
+[9] https://www.youtube.com/watch?v=S_u_LR7Gce4
+[10] https://www.youtube.com/watch?v=wOkF70E8arU
+[11] https://www.youtube.com/watch?v=TXmyF0IBsIk
+[12] https://www.youtube.com/watch?v=9mHfvGN7FwU
+[13] https://www.cloudskillsboost.google/course_templates/1080/video/520174
+[14] https://www.reddit.com/r/singularity/comments/1apgv6s/comparison_of_gemini_advanced_and_gpt4turbo_and/
+[15] https://www.youtube.com/playlist?list=PLhBwB1lBTwJV2bxpKQutBatyEm-mUH3K7
+[16] https://hai.stanford.edu/news/holistic-evaluation-of-large-language-models-for-medical-applications
+[17] https://www.youtube.com/watch?v=HmQoAHCUGxo
+[18] https://www.youtube.com/watch?v=TdR9Htd2QVg
+[19] https://www.youtube.com/watch?v=1o0k0hoap6A
+[20] https://www.youtube.com/watch?v=S571u8q4uYU
+[21] https://www.youtube.com/watch?v=3SlM8DgB_Wo
+
+https://www.perplexity.ai/search/you-are-a-deep-thinking-ai-you-Wkc6utEiSs2Q.8SgannGQg?0=d
+
+---
 Here are 20 commonly asked questions used to test LLM capabilities, focusing on reasoning, factual accuracy, and ability to handle linguistic nuances:
 
 ## Reasoning & Logic
