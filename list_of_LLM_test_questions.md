@@ -645,6 +645,7 @@ $ ollama run hf.co/mradermacher/Light-R1-7B-DS-GGUF:Q4_K_M
 ```
 
 \>\>\> think deeply using long chain of thoughts to answer me. enclose your monologue for your chain of thoughts in tags <think> </think>, follow by your answer after exploring various options to provide the best answer. ok, answer this question: "A farmer has chickens and rabbits. There are 30 heads and 84 feet. How many chickens and rabbits are there?"
+
 \<think\>
 Alright, so I've got this problem here: A farmer has chickens and rabbits. There are 30 heads and 84 feet. How many chickens and rabbits are there? Hmm, okay, let's try to figure this out.
 
