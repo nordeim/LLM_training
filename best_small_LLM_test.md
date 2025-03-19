@@ -3,8 +3,7 @@
 ```bash
 $ ollama run hf.co/mradermacher/Light-R1-7B-DS-GGUF:Q4_K_M
 ```
-\>\>\> think deeply using long chain of thoughts to answer me. enclose your monologue for your chain of thoughts in tags <think> </think>, follow by your answer after exploring various options to provide the best answer. ok, answer this question: "A farmer has chickens and rabbits. There are 30 heads and 84 feet. How many chickens and rabbits are there?"
-
+\>\>\> think deeply using long chain of thoughts to answer me. enclose your monologue for your chain of thoughts in tags <think> </think>, follow by your answer after exploring various options to provide the best answer. ok, answer this question: "A farmer has chickens and rabbits. There are 30 heads and 84 feet. How many chickens and rabbits are there?"  
 \<think\>
 Alright, so I've got this problem here: A farmer has chickens and rabbits. There are 30 heads and 84 feet. How many chickens and rabbits are there? Hmm, okay, let's try to figure this out.
 
@@ -96,9 +95,8 @@ To solve the problem of determining the number of chickens and rabbits given tha
 **Final Answer**: There are **18 chickens** and **12 rabbits**.
 
 ---
-\>\>\> think deeply using long chain of thoughts to answer me. enclose your monologue for your chain of thoughts in tags <think> </think>, follow by your answer after exploring various options to provide the best answer. ok, now solve this logic puzzle: "If all cats are mammals and some mammals are dogs, are all cats dogs?"
-
-\<think\>
+\>\>\> think deeply using long chain of thoughts to answer me. enclose your monologue for your chain of thoughts in tags <think> </think>, follow by your answer after exploring various options to provide the best answer. ok, now solve this logic puzzle: "If all cats are mammals and some mammals are dogs, are all cats dogs?"  
+\<think\>  
 Alright, let's tackle this logic puzzle: "If all cats are mammals and some mammals are dogs, are all cats dogs?"
 
 First, I need to understand the statements given. The first statement says that all cats are mammals. That makes sense because I know that cats are animals, and all animals are mammals. So, every cat is a mammal.
@@ -119,7 +117,7 @@ Therefore, even though all cats are mammals, and some mammals are dogs, we can't
 
 In logical terms, the first statement (all cats are mammals) is a universal statement, while the second statement (some mammals are dogs) is an existential statement. Combining these doesn't lead to a universal conclusion about all cats being dogs.
 
-So, the answer would be: No, we cannot conclude that all cats are dogs based on the given statements.
+So, the answer would be: No, we cannot conclude that all cats are dogs based on the given statements.  
 \<\/think\>
 
 **Final Answer**: No, we cannot conclude that all cats are dogs based on the given statements. 
