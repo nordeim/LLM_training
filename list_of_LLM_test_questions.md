@@ -330,15 +330,7 @@ Based on my research and understanding of common LLM evaluation practices, here 
 ---
 ```
 $ ollama run gemma3:4b
-pulling manifest 
-pulling 377655e65351... 100% ▕████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏ 3.3 GB                         
-pulling e0a42594d802... 100% ▕████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏  358 B                         
-pulling dd084c7d92a3... 100% ▕████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏ 8.4 KB                         
-pulling 0a74a8735bf3... 100% ▕████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏   55 B                         
-pulling ffae984acbea... 100% ▕████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏  489 B                         
-verifying sha256 digest 
-writing manifest 
-success 
+
 >>> think deeply using long chain of thoughts to answer me. enclose your monologue for your chain of thoughts in tags <think> </think>, follow by your answer after exploring various options to provide the best answer. ok, answer this question: "A farmer has chickens and rabbits. There are 30 heads and 84 feet. How many chickens and rabbits are there?"
 ```
 Okay, let's tackle this classic problem. It’s a good one because it’s easily solvable with a bit of logical deduction. I’ll break down my thought process step-by-step to ensure we arrive at the correct solution.
@@ -645,3 +637,112 @@ Overall, I think my initial response was accurate, but expanding on it could mak
 \<\/think\>
 
 There are **three** "R"s in the word "strawberry."
+
+---
+```
+$ ollama run hf.co/mradermacher/Light-R1-7B-DS-GGUF:Q4_K_M
+>>> think deeply using long chain of thoughts to answer me. enclose your monologue for your chain of thoughts in tags <think> </think>, follow by your answer after exploring various options to provide the best answer. ok, now count for me the number of vowels in the sentence: "The quick brown fox jumps over the lazy dog."
+```
+
+\>\>\> think deeply using long chain of thoughts to answer me. enclose your monologue for your chain of thoughts in tags <think> </think>, follow by your answer after exploring various options to provide the best answer. ok, answer this question: "A farmer has chickens and rabbits. There are 30 heads and 84 feet. How many chickens and rabbits are there?"
+\<think\>
+Alright, so I've got this problem here: A farmer has chickens and rabbits. There are 30 heads and 84 feet. How many chickens and rabbits are there? Hmm, okay, let's try to figure this out.
+
+First off, I know that both chickens and rabbits have one head each. So if there are 30 heads in total, that means there are 30 animals altogether. That part seems straightforward. Now, the tricky part is figuring out how many of 
+those are chickens and how many are rabbits based on the number of feet.
+
+Alright, so let's think about the legs. Chickens have 2 legs, and rabbits have 4 legs. The problem says there are 84 feet in total. So, if I can set up an equation that accounts for both the number of heads and the number of feet, 
+I should be able to solve it.
+
+Let me denote the number of chickens as C and the number of rabbits as R. Since each animal has one head, the total number of animals is C + R = 30. That's my first equation.
+
+Now, for the legs. Each chicken has 2 legs, so all the chickens together have 2C legs. Each rabbit has 4 legs, so all the rabbits together have 4R legs. The total number of legs is 84, so the second equation would be 2C + 4R = 84.
+
+So now I have a system of two equations:
+1. C + R = 30
+2. 2C + 4R = 84
+
+I need to solve this system to find the values of C and R. Let's see, maybe I can use substitution or elimination. Substitution might be easier here.
+
+From the first equation, I can express C in terms of R: C = 30 - R.
+
+Then, substitute this expression for C into the second equation:
+2(30 - R) + 4R = 84
+
+Let's work that out:
+60 - 2R + 4R = 84
+Combine like terms:
+60 + 2R = 84
+Subtract 60 from both sides:
+2R = 24
+Divide by 2:
+R = 12
+
+So there are 12 rabbits. Now, substitute R back into the first equation to find C:
+C = 30 - 12 = 18
+
+Therefore, there are 18 chickens and 12 rabbits.
+
+Wait a minute, let me double-check that. If there are 18 chickens, that's 18 * 2 = 36 legs. And 12 rabbits, which is 12 * 4 = 48 legs. Adding those together gives 36 + 48 = 84 legs total. That matches the problem statement. And 18 
++ 12 = 30 animals, which also matches the head count. So it looks like everything checks out.
+
+Another way to think about it might be to assume all animals are chickens first. If all 30 were chickens, there would be 30 * 2 = 60 legs. But we have 84 legs, which is 24 more legs than that. Since each rabbit has 2 more legs 
+than a chicken, those extra 24 legs would mean there are 24 / 2 = 12 rabbits. So, again, that gives us 12 rabbits and 30 - 12 = 18 chickens. Yep, same result.
+
+This makes sense because replacing a chicken with a rabbit adds 2 legs each time. So starting with 60 legs (all chickens), adding 12 rabbits adds 24 legs to reach 84. That lines up perfectly.
+
+So, the final answer is 18 chickens and 12 rabbits.
+\<\/think\>
+
+To solve the problem of determining the number of chickens and rabbits given that there are 30 heads and 84 feet, we can follow these steps:
+
+1. **Define Variables**:
+   - Let \( C \) represent the number of chickens.
+   - Let \( R \) represent the number of rabbits.
+
+2. **Set Up Equations**:
+   - Since each animal has one head, the total number of animals is given by:
+     \[
+     C + R = 30
+     \]
+   - Chickens have 2 legs and rabbits have 4 legs. The total number of legs is 84, so:
+     \[
+     2C + 4R = 84
+     \]
+
+3. **Solve the System of Equations**:
+   - From the first equation, express \( C \) in terms of \( R \):
+     \[
+     C = 30 - R
+     \]
+   - Substitute this expression into the second equation:
+     \[
+     2(30 - R) + 4R = 84
+     \]
+   - Simplify and solve for \( R \):
+     \[
+     60 - 2R + 4R = 84 \\
+     60 + 2R = 84 \\
+     2R = 24 \\
+     R = 12
+     \]
+   - Substitute \( R = 12 \) back into the equation \( C = 30 - R \):
+     \[
+     C = 30 - 12 = 18
+     \]
+
+4. **Verification**:
+   - Check the number of legs:
+     \[
+     18 \text{ chickens} \times 2 = 36 \text{ legs} \\
+     12 \text{ rabbits} \times 4 = 48 \text{ legs} \\
+     36 + 48 = 84 \text{ legs}
+     \]
+   - The total number of animals:
+     \[
+     18 + 12 = 30
+     \]
+   - Both conditions are satisfied.
+
+**Final Answer**: There are **18 chickens** and **12 rabbits**.
+
