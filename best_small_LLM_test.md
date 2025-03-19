@@ -80,9 +80,9 @@ To solve the problem of determining the number of chickens and rabbits given tha
      \]
    - Simplify and solve for \( R \):
      \[
-     60 - 2R + 4R = 84
-     60 + 2R = 84
-     2R = 24
+     60 - 2R + 4R = 84 \\
+     60 + 2R = 84 \\
+     2R = 24 \\
      R = 12
      \]
    - Substitute \( R = 12 \) back into the equation \( C = 30 - R \):
@@ -92,9 +92,9 @@ To solve the problem of determining the number of chickens and rabbits given tha
 
 4. **Verification**:
    - Check the number of legs:
-     18 chickens × 2 = 36 legs
-     12 rabbits × 4 = 48 legs
-     36 + 48 = 84 legs
+     18 chickens × 2 = 36 legs \\
+     12 rabbits × 4 = 48 legs \\
+     36 + 48 = 84 legs \\
    - The total number of animals:
      \[
      18 + 12 = 30
