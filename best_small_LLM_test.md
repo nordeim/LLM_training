@@ -1,9 +1,10 @@
 [**list of LLM test questions can be found here.**](https://github.com/nordeim/LLM_training/blob/main/list_of_LLM_test_questions.md)
 
-```
+```bash
 $ ollama run hf.co/mradermacher/Light-R1-7B-DS-GGUF:Q4_K_M
->>> think deeply using long chain of thoughts to answer me. enclose your monologue for your chain of thoughts in tags <think> </think>, follow by your answer after exploring various options to provide the best answer. ok, answer this question: "A farmer has chickens and rabbits. There are 30 heads and 84 feet. How many chickens and rabbits are there?"
 ```
+\>\>\> think deeply using long chain of thoughts to answer me. enclose your monologue for your chain of thoughts in tags <think> </think>, follow by your answer after exploring various options to provide the best answer. ok, answer this question: "A farmer has chickens and rabbits. There are 30 heads and 84 feet. How many chickens and rabbits are there?"
+
 \<think\>
 Alright, so I've got this problem here: A farmer has chickens and rabbits. There are 30 heads and 84 feet. How many chickens and rabbits are there? Hmm, okay, let's try to figure this out.
 
@@ -94,9 +95,8 @@ To solve the problem of determining the number of chickens and rabbits given tha
 
 **Final Answer**: There are **18 chickens** and **12 rabbits**.
 
-```
->>> think deeply using long chain of thoughts to answer me. enclose your monologue for your chain of thoughts in tags <think> </think>, follow by your answer after exploring various options to provide the best answer. ok, now solve this logic puzzle: "If all cats are mammals and some mammals are dogs, are all cats dogs?"
-```
+\>\>\> think deeply using long chain of thoughts to answer me. enclose your monologue for your chain of thoughts in tags <think> </think>, follow by your answer after exploring various options to provide the best answer. ok, now solve this logic puzzle: "If all cats are mammals and some mammals are dogs, are all cats dogs?"
+
 \<think\>
 Alright, let's tackle this logic puzzle: "If all cats are mammals and some mammals are dogs, are all cats dogs?"
 
