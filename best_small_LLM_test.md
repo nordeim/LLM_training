@@ -203,11 +203,11 @@ The train will reach its destination at **11 AM**.
 
 2. **Calculate Travel Time**:  
    Use the formula:  
-   $`\[ \text{Time} = \frac{\text{Distance}}{\text{Speed}} \]  `$
+   $` \text{Time} = \frac{\text{Distance}}{\text{Speed}}`$
    Plugging in the values:  
-   \[ \text{Time} = \frac{120 \text{ miles}}{60 \text{ mph}} = 2 \text{ hours} \]  
+   $`\text{Time} = \frac{120 \text{ miles}}{60 \text{ mph}} = 2 \text{ hours} `$  
 
-3. **Determine Arrival Time**:  
+4. **Determine Arrival Time**:  
    Add the travel time to the departure time:  
    \[ 9 \text{ AM} + 2 \text{ hours} = 11 \text{ AM} \]  
 
