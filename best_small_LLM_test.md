@@ -209,11 +209,11 @@ The train will reach its destination at **11 AM**.
 
 4. **Determine Arrival Time**:  
    Add the travel time to the departure time:  
-   \[ 9 \text{ AM} + 2 \text{ hours} = 11 \text{ AM} \]  
+   $`9 \text{ AM} + 2 \text{ hours} = 11 \text{ AM} `$  
 
 **Verification**:  
 - Multiply speed by time to ensure it equals the distance:  
-  \[ 60 \text{ mph} \times 2 \text{ hours} = 120 \text{ miles} \]  
+  $`60 \text{ mph} \times 2 \text{ hours} = 120 \text{ miles}`$  
 - This matches the given distance, confirming the calculation is correct.  
 
 By following these steps, we determine that the train will arrive at its destination at **11 AM**.
