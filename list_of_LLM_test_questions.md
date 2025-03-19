@@ -328,6 +328,7 @@ Based on my research and understanding of common LLM evaluation practices, here 
 30. **Understanding definitions:** "What is the definition of 'ubiquitous'?"
 
 ---
+```
 $ ollama run gemma3:4b
 pulling manifest 
 pulling 377655e65351... 100% ▕████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏ 3.3 GB                         
@@ -339,6 +340,7 @@ verifying sha256 digest
 writing manifest 
 success 
 \>\>\> think deeply using long chain of thoughts to answer me. enclose your monologue for your chain of thoughts in tags <think> </think>, follow by your answer after exploring various options to provide the best answer. ok, answer this question: "A farmer has chickens and rabbits. There are 30 heads and 84 feet. How many chickens and rabbits are there?"
+```
 Okay, let's tackle this classic problem. It’s a good one because it’s easily solvable with a bit of logical deduction. I’ll break down my thought process step-by-step to ensure we arrive at the correct solution.
 
 \<think\>
