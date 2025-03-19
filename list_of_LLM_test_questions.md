@@ -328,6 +328,65 @@ Based on my research and understanding of common LLM evaluation practices, here 
 30. **Understanding definitions:** "What is the definition of 'ubiquitous'?"
 
 ---
+$ ollama run gemma3:4b
+pulling manifest 
+pulling 377655e65351... 100% ▕████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏ 3.3 GB                         
+pulling e0a42594d802... 100% ▕████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏  358 B                         
+pulling dd084c7d92a3... 100% ▕████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏ 8.4 KB                         
+pulling 0a74a8735bf3... 100% ▕████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏   55 B                         
+pulling ffae984acbea... 100% ▕████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏  489 B                         
+verifying sha256 digest 
+writing manifest 
+success 
+\>\>\> think deeply using long chain of thoughts to answer me. enclose your monologue for your chain of thoughts in tags <think> </think>, follow by your answer after exploring various options to provide the best answer. ok, answer this question: "A farmer has chickens and rabbits. There are 30 heads and 84 feet. How many chickens and rabbits are there?"
+Okay, let's tackle this classic problem. It’s a good one because it’s easily solvable with a bit of logical deduction. I’ll break down my thought process step-by-step to ensure we arrive at the correct solution.
+
+\<think\>
+Right away, this problem screams for a system of equations. We have two key pieces of information: the total number of heads and the total number of feet.  The most straightforward approach is to represent the unknowns – the 
+number of chickens and the number of rabbits – with variables. Let's use 'c' to represent the number of chickens and 'r' to represent the number of rabbits.
+
+The first clue, "There are 30 heads," tells us that the total number of animals is 30. Since each animal has one head, we can write the first equation:
+
+c + r = 30
+
+This equation simply states that the number of chickens plus the number of rabbits equals the total number of animals.
+
+The second clue, "There are 84 feet," is a bit trickier. Chickens have 2 feet and rabbits have 4 feet. So, the total number of feet is 2c + 4r = 84.  This equation represents the total number of feet, considering the different 
+number of feet each animal type has.
+
+Now we have two equations:
+
+1. c + r = 30
+2. 2c + 4r = 84
+
+We can solve this system of equations. There are a few ways to do this – substitution, elimination, or matrices. Elimination seems like the most direct route in this case. I'll multiply the first equation by -2:
+
+-2(c + r) = -2(30)
+-2c - 2r = -60
+
+Now we can add this modified equation to the second equation:
+
+(-2c - 2r) + (2c + 4r) = -60 + 84
+0c + 2r = 24
+2r = 24
+
+Solving for 'r':
+r = 24 / 2
+r = 12
+
+So, there are 12 rabbits.  Now that we know the number of rabbits, we can plug it back into the first equation to find the number of chickens:
+
+c + r = 30
+c + 12 = 30
+c = 30 - 12
+c = 18
+
+Therefore, there are 18 chickens. Let’s quickly verify our answer. 18 chickens * 2 feet/chicken = 36 feet. 12 rabbits * 4 feet/rabbit = 48 feet. 36 + 48 = 84 feet. And 18 + 12 = 30 heads. It checks out!
+\<\/think\>
+
+Answer: There are 18 chickens and 12 rabbits.
+
+---
 ```
 Do a deep dive research on YouTube videos, focusing on the recent videos to give me a list of 20 most commonly asked questions for LLMs that are being commented on in the YouTube videos, questions that are commonly used to test the quality of a new LLM released. question like "how many r are there in strawberry?".
 ```
